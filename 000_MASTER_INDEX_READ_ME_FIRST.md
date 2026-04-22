@@ -66,7 +66,7 @@
 
 ### CORE METHODOLOGY DOCUMENTS
 
-#### 3. **skill_tender_requirements_to_proposal_v2.md** 
+#### 3. **skill_tender_requirements_to_proposal.md** 
 - **Purpose**: The actual methodology for converting tenders to proposals
 - **Size**: ~500 lines
 - **Reading Time**: 20-30 minutes (full) / 5 minutes (reference specific section)

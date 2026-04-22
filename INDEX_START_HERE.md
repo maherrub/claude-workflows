@@ -8,7 +8,7 @@ A professional, transparent workflow system for converting tender documents to p
 
 ## 📄 The Four Documents
 
-### 1️⃣ **skill_tender_requirements_to_proposal_v2.md**
+### 1️⃣ **skill_tender_requirements_to_proposal.md**
 **What it is**: The methodology blueprint
 **Who reads it**: You, as reference + Claude, for understanding HOW to process
 
@@ -32,7 +32,7 @@ A professional, transparent workflow system for converting tender documents to p
 - Creating similar skills
 
 **Length**: ~500 lines
-**How to reference**: "Use skill_tender_requirements_to_proposal_v2: [task]"
+**How to reference**: "Use skill_tender_requirements_to_proposal: [task]"
 
 ---
 
