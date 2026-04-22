@@ -23,7 +23,7 @@ claude-workflows/
 │   └── (empty — templates added per project)
 ├── projects/                  # Active project trackers (prefix: pt_)
 │   └── default/
-│       └── pt_tender_proposal.md
+│       └── pt_default.md
 ├── documentation/             # Guides and reference docs (prefix: doc_)
 │   └── (empty — docs added as needed)
 └── archived/                  # Completed or retired items
@@ -64,7 +64,7 @@ claude-workflows/
 
 | Project | Folder | Tracker | Workflow | Status |
 |---------|--------|---------|----------|--------|
-| Default Tender | `projects/default/` | `pt_tender_proposal.md` | WF-001 | ⬜ Not Started |
+| Default Tender | `projects/default/` | `pt_default.md` | WF-001 | ⬜ Not Started |
 
 ## Session Resume Protocol
 
